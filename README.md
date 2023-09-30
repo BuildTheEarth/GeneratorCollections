@@ -1,8 +1,18 @@
+# GeneratorCollections
+A collection of schematics that are used by the Generator in the [BuildTeamTools](https://github.com/BuildTheEarth/BuildTeamTools) plugin
+
+## Collections
+The Generator collections repository contains multiple collections that are used for different purposes.<br><br>
+
+**TreePack:**<br>
+The Tree Pack is used to install hundreds of trees with different variations.
+Those can then be used by the Tree Generator to quickly generate trees of any kind.
+
+**FieldPack:**<br>
+The Field Pack contains a collection of multiple different Field Patterns of different orientations.
+Those can then be used by the Field Generator to quickly generate fields in any orientation and angle.
+<br><br>
 # TreePack
-A collection of Trees to use in combination with the BuildTeamTools plugin
-
-
-# Parameters
 
 ## Tree Types
 
