@@ -16,45 +16,45 @@ Those can then be used by the Field Generator to quickly generate fields in any 
 
 ## Tree Types
 
-`ANY` <br>
-`ACACIA` <br>
-`AFRICA` <br>
-`ALEXANDERPALM` <br>
-`AMERICA` <br>
-`ASIA` <br>
-`BIRCH` <br>
-`BUSH` <br>
-`CARIBBEANPALM` <br>
-`CEDAR` <br>
-`COASTALFIR` <br>
-`COCONUTPALM` <br>
-`CYPRESS` <br>
-`DEAD` <br>
-`EUROPE` <br>
-`FIR` <br>
-`GIANTSEQUOIA` <br>
-`KINGPALM` <br>
-`LARCH` <br>
-`LONGLEAFPINE` <br>
-`MOUNTAINASH` <br>
-`OAK` <br>
-`OCEANIA` <br>
-`OTHER` <br>
-`PALM` <br>
-`PLANE` <br>
-`POPLAR` <br>
-`RAFFIAPALM` <br>
-`ROCK` <br>
-`SCOTTSPINE` <br>
-`SNOWYLARCH` <br>
-`SNOWYLONGLEAF` <br>
-`SNOWYSPRUCE` <br>
-`SPRUCE` <br>
-`SWAMP` <br>
-`SWAMPROOTS` <br>
-`TROPICAL` <br>
-`WILLOW` <br>
-`YELLOWMERANTI` <br>
+`ANY`,
+`ACACIA`,
+`AFRICA`,
+`ALEXANDERPALM`, 
+`AMERICA`, 
+`ASIA`, <br>
+`BIRCH`, 
+`BUSH`, 
+`CARIBBEANPALM`, 
+`CEDAR`, 
+`COASTALFIR`, 
+`COCONUTPALM`, 
+`CYPRESS`, <br>
+`DEAD`, 
+`EUROPE`, 
+`FIR`, 
+`GIANTSEQUOIA`, 
+`KINGPALM`, 
+`LARCH`, 
+`LONGLEAFPINE`, <br>
+`MOUNTAINASH`, 
+`OAK`, 
+`OCEANIA`, 
+`OTHER`, 
+`PALM`, 
+`PLANE`, 
+`POPLAR`, 
+`RAFFIAPALM`, 
+`ROCK`, <br>
+`SCOTTSPINE`, 
+`SNOWYLARCH`, 
+`SNOWYLONGLEAF`, 
+`SNOWYSPRUCE`, 
+`SPRUCE`, 
+`SWAMP`, 
+`SWAMPROOTS`, <br>
+`TROPICAL`,
+`WILLOW`, 
+`YELLOWMERANTI`
 
 ## Tree Widths
 
