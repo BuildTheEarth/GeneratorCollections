@@ -64,3 +64,13 @@ Those can then be used by the Field Generator to quickly generate fields in any 
 `WIDE` <br>
 `XXL` <br>
 `DEAD` <br>
+
+# Field Pack
+
+The field pack contains a list of 20 field direction patterns.<br>
+When the player generated a field, the correct pattern is selected based on the players YAW value to make sure that the field is facing a similiar direction that the player is looking at.<br>
+There are two categories for the field patterns: <br>
+- `NORMAL` - Normal lines for potato or harvested fields
+- `STRIPED` - Striped lines for vineyard and pears fields
+
+![patterns](https://github.com/BuildTheEarth/GeneratorCollections/assets/66020920/aad6780d-b5a4-408d-ae9c-5d15ac4ef480)
