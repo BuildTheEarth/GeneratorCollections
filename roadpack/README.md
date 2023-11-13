@@ -44,7 +44,7 @@ Here is an example where to copy this example street lamp from: <br>
 
 1. Launch the game with the BuildTheEarth modpack.
 2. Build a street lamp
-3. Create a mixed pattern wall behind the street lamp made out of White Concrete (ID: 251) and Andesite (ID: 1:3)
+3. Create a mixed pattern wall behind the street lamp made out of White Concrete (ID: 251) and Diorite (ID: 1:3)
 4. Create a floor made out of White Concrete (ID: 251)
 5. Turn your FOV down to `40` (Settings -> FOV)
 6. Position yourself in front of the street lamp in the middle of it
