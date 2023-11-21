@@ -6,25 +6,35 @@ This roadpack contains a collection of street lamps.
 
 ## Street Lamp Types
 
-### 001 - Test Street Lamp
-This is a test street lamp description
-
+### 001
 <img src="https://github.com/BuildTheEarth/GeneratorCollections/assets/66020920/11fa6f27-1396-4271-964d-2496502e3ebd" height="200px">
 
-### 002 - Lamp Name
-Lamp Description
+### 002
+<img src = "https://github.com/BuildTheEarth/GeneratorCollections/assets/60553121/a1c7b0bd-0791-4527-b5b5-098039052b91" height="200px">
 
-### 003 - Lamp Name
-Lamp Description
+### 003
+<img src = "https://github.com/BuildTheEarth/GeneratorCollections/assets/60553121/39bfeba4-1fbc-4773-bc18-9a829ff24439" height="200px">
 
-### 004 - Lamp Name
-Lamp Description
+### 004
+<img src = "https://github.com/BuildTheEarth/GeneratorCollections/assets/60553121/67136314-21b2-4b94-8f18-7893057549e1" height="200px">
 
-### 005 - Lamp Name
-Lamp Description
+### 005
+<img src = "https://github.com/BuildTheEarth/GeneratorCollections/assets/60553121/5328da49-0965-41e2-8b8f-11147b9f7005" height="200px">
 
-### 006 - Lamp Name
-Lamp Description
+### 006
+<img src = "https://github.com/BuildTheEarth/GeneratorCollections/assets/60553121/63fcd097-4f8a-471f-aa50-ffa2ca776f67" height="200px">
+
+### 007
+<img src = "https://github.com/BuildTheEarth/GeneratorCollections/assets/60553121/7bae9b61-6c5d-44e2-be6d-6e98fde0191b" height="200px">
+
+### 008
+<img src = "https://github.com/BuildTheEarth/GeneratorCollections/assets/60553121/aa83c062-1145-4fe8-acf2-dbd16bd08263" height="200px">
+
+### 009
+<img src = "https://github.com/BuildTheEarth/GeneratorCollections/assets/60553121/3ea43bbb-78ef-4964-9540-7a77738d3a40" height="200px">
+
+### 010
+<img src = "https://github.com/BuildTheEarth/GeneratorCollections/assets/60553121/84be842d-8a1b-4d0c-b8a1-efa4ce670e91" height="200px">
 
 ## How to add new street lamps
 
